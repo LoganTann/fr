@@ -22,9 +22,8 @@ Pour parcourir les pages, cliquez sur les liens en bleu.
 
 ### *Supplémentaire* :
 
-- [Fiche tout en un rédigée par Alix (contient des éléments en plus de ceux présents sur ce site)](https://docs.google.com/document/d/1vuFcUAQpijbgveyHbleFmPk7E1zsORSIzSC5htFnoDs/edit?usp=sharing)
-
-- [Points culture pour l'entretien](textes/culture.md)
+* [Fiche tout en un rédigée par Alix (contient des éléments en plus de ceux présents sur ce site)](https://docs.google.com/document/d/1vuFcUAQpijbgveyHbleFmPk7E1zsORSIzSC5htFnoDs/edit?usp=sharing)
+* [Points culture pour l'entretien](textes/culture.md)
 
 ### *La mort est mon métier* de Robert Merle :
 
