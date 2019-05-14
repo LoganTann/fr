@@ -41,8 +41,8 @@ Pour parcourir les pages, cliquez sur les liens en bleu.
 ### *La peste* d'Albert Camus :
 
 * [Texte 5/20 : **La soirée à l'opéra**](textes/txt5.jpg) - Schéma Bilan uniquement
-* [Texte 4/20 : **L'agonie du fils Othon**](textes/txt5.jpg) - Schéma Bilan uniquement
-* [Texte 3/20 : **Le prêche de Paneloux**](textes/txt5.jpg) - Schéma Bilan uniquement
+* [Texte 4/20 : **L'agonie du fils Othon**](textes/txt4.jpg) - Schéma Bilan uniquement
+* [Texte 3/20 : **Le prêche de Paneloux**](textes/txt3.jpg) - Schéma Bilan uniquement
 
 
 ### Séquence d'introduction sur la monstruosité : 
