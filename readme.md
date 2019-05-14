@@ -1,18 +1,12 @@
-# Fiches de français - 1S4 (et aussi 1S3)
-
-*Tann Logan*
-
-
-
 Ce dossier contient les fiches de révision que j'ai complètement rédigé et organisé en fonction de notre cours. Certaines sont plus complètes que d'autre.
 
 Les informations présentes dans les commentaires sont tirées du cours de français et aussi des docs que le prof a donné sur le cahier de texte en ligne, mais complètement retapé et organisé avec le plan de la classe. Il peut y avoir du copié-collé mais ceux-ci sont bien souvent reformulés.
 
-Toutes modifications sont proposables, soit via message, soit via les Pull Requests en utilisant le service de Github.
+Toutes modifications sont proposables, soit via message, soit via le service de Github.
 
 * Les textes <8 contiennent uniquement les schémas bilan comme vous devriez les avoir révisés pour le précédent oral.
-* Les textes 9, 10 et 11 sont fait par Jean et j'attend qu'il me les envoies.
-* Les textes 12, 13 et 14 sont complets (Commentaires + Schémas Bilan)
+* Les textes 9, 10 et 11 sont fait par Jean.
+* **Les textes 12, 13 et 14 sont complets (Commentaires + Schémas Bilan)**
 
 
 
@@ -20,7 +14,7 @@ Pour parcourir les pages, cliquez sur les liens en bleu.
 
 ## Liste des textes présents dans ce dossier : 
 
-> ### Séquence sur la poésie (pas pour le prochain oral)
+> ### *Séquence sur la poésie (pas pour le prochain oral)*
 >
 > * Texte 17/20 : **"Vous faites voir les os"** de *Paul Scarron*.
 > * Texte 16/20 : Extrait du champ IV des **Champs de maldoror** de *Lautréamont*.
@@ -40,21 +34,21 @@ Pour parcourir les pages, cliquez sur les liens en bleu.
 
 ### *Lorenzaccio* d'Alfred de Musset : 
 
-* Texte 8/20 : **La planification du crime de Lorenzo** - [Schéma Bilan uniquement](textes/txt8.jpg)
-* Texte 7/20 : **La confession de Lorenzo à Philippe Strazzi** - [Schéma Bilan uniquement](textes/txt7.jpg)
-* Texte 6/20 : **L'introduction de Lorenzo** - [Schéma Bilan uniquement](textes/txt6.jpg)
+* [Texte 8/20 : **La planification du crime de Lorenzo**](textes/txt8.jpg) - Schéma Bilan uniquement
+* [Texte 7/20 : **La confession de Lorenzo à Philippe Strazzi**](textes/txt7.jpg) - Schéma Bilan uniquement
+* [Texte 6/20 : **L'introduction de Lorenzo**](textes/txt6.jpg) - Schéma Bilan uniquement
 
 ### *La peste* d'Albert Camus :
 
-* Texte 5/20 : **La soirée à l'opéra** - [Schéma Bilan uniquement](textes/txt5.jpg)
-* Texte 4/20 : **L'agonie du fils Othon** - [Schéma Bilan uniquement](textes/txt4.jpg)
-* Texte 3/20 : **Le prêche de Paneloux** - [Schéma Bilan uniquement](textes/txt3.jpg)
+* [Texte 5/20 : **La soirée à l'opéra**](textes/txt5.jpg) - Schéma Bilan uniquement
+* [Texte 4/20 : **L'agonie du fils Othon**](textes/txt5.jpg) - Schéma Bilan uniquement
+* [Texte 3/20 : **Le prêche de Paneloux**](textes/txt5.jpg) - Schéma Bilan uniquement
 
 
 ### Séquence d'introduction sur la monstruosité : 
 
-* Texte 2/20 : **La monstruosité (Les essais)**  de *Michel de Montaigne* - [Schéma Bilan uniquement](textes/txt2.jpg)
-* Texte 1/20 : **Extrait des monstres et des prodiges** d'*Amdoisse Paré* - [Schéma Bilan uniquement (qui pique des yeux)](textes/txt1.jpg)
+* [Texte 2/20 : **La monstruosité (Les essais)**](textes/txt2.jpg) de *Michel de Montaigne* - Schéma Bilan uniquement
+* [Texte 1/20 : **Extrait des monstres et des prodiges**](textes/txt1.jpg) d'*Amdoisse Paré* - Schéma Bilan uniquement (qui pique des yeux)
 
 
 
