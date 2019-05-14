@@ -50,8 +50,6 @@ Pour parcourir les pages, cliquez sur les liens en bleu.
 * [Texte 2/20 : **La monstruosité (Les essais)**](textes/txt2.jpg) de *Michel de Montaigne* - Schéma Bilan uniquement
 * [Texte 1/20 : **Extrait des monstres et des prodiges**](textes/txt1.jpg) d'*Amdoisse Paré* - Schéma Bilan uniquement (qui pique des yeux)
 
-
-
 ### Autre :
 
-[Commentaires 13 & 14 venant d'internet, proposés par le prof](sources/)
+* [Fiche tout en un rédigée par Alix (contient des éléments en plus de ceux présents sur ce site)](https://docs.google.com/document/d/1vuFcUAQpijbgveyHbleFmPk7E1zsORSIzSC5htFnoDs/edit?usp=sharing)
