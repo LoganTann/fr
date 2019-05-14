@@ -20,6 +20,12 @@ Pour parcourir les pages, cliquez sur les liens en bleu.
 > * Texte 16/20 : Extrait du champ IV des **Champs de maldoror** de *Lautréamont*.
 > * Texte 15/20 : **"La ballade des pendus"** de *François Villon*.
 
+### *Supplémentaire* :
+
+- [Fiche tout en un rédigée par Alix (contient des éléments en plus de ceux présents sur ce site)](https://docs.google.com/document/d/1vuFcUAQpijbgveyHbleFmPk7E1zsORSIzSC5htFnoDs/edit?usp=sharing)
+
+- [Points culture pour l'entretien](textes/culture.md)
+
 ### *La mort est mon métier* de Robert Merle :
 
 *  [Texte 14/20 : **Le procès de Rudolf**](textes/txt14.md) - Commentaire complet + Schéma Bilan
@@ -49,7 +55,3 @@ Pour parcourir les pages, cliquez sur les liens en bleu.
 
 * [Texte 2/20 : **La monstruosité (Les essais)**](textes/txt2.jpg) de *Michel de Montaigne* - Schéma Bilan uniquement
 * [Texte 1/20 : **Extrait des monstres et des prodiges**](textes/txt1.jpg) d'*Amdoisse Paré* - Schéma Bilan uniquement (qui pique des yeux)
-
-### Autre :
-
-* [Fiche tout en un rédigée par Alix (contient des éléments en plus de ceux présents sur ce site)](https://docs.google.com/document/d/1vuFcUAQpijbgveyHbleFmPk7E1zsORSIzSC5htFnoDs/edit?usp=sharing)
