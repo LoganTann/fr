@@ -29,7 +29,7 @@ Pour parcourir les pages, cliquez sur les liens en bleu.
 ### Séquence dédiée au portrait :
 
 * [Texte 11/20 : **Le portrait de Guwynplaine (L'homme qui rit)**](textes/txt11.md) de *Victor Hugo* - Commentaire complet
-* Texte 10/20 : **Le portrait d'un usurier (Gobsec)** d'*Honoré de Balzac* - À venir
+* [Texte 10/20 : **Le portrait d'un usurier (Gobsec)**](textes/txt10.md) d'*Honoré de Balzac* - Schéma bilan uniquement
 * [Texte 9/20 : **La mort d'Emma Bovary**](textes/txt9.md) de *Gustave Flaubert* - Texte et commentaire complet
 
 ### *Lorenzaccio* d'Alfred de Musset : 
