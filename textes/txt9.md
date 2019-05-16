@@ -1,7 +1,7 @@
 Texte 9 - __La mort d'Emma Bovary__ de *Gustave Flaubert* 
 =====
 
-Commentaire complet rédigé par Jean Dias Alvez. [Retour au menu](../)
+*Jean Dias Alvez*. [Retour au menu](../)
 
 ![Page 1](txt9_1.jpg)
 

@@ -2,15 +2,15 @@ Ce dossier contient les fiches de révision que j'ai complètement rédigé et o
 
 Les informations présentes dans les commentaires sont tirées du cours de français et aussi des docs que le prof a donné sur le cahier de texte en ligne, mais complètement retapé et organisé avec le plan de la classe. Il peut y avoir du copié-collé mais ceux-ci sont bien souvent reformulés.
 
-Toutes modifications sont proposables, soit via message, soit via le service de Github.
-
-* Les textes <8 contiennent uniquement les schémas bilan comme vous devriez les avoir révisés pour le précédent oral.
-* Les textes 9, 10 et 11 sont fait par Jean.
-* **Les textes 12, 13 et 14 sont complets (Commentaires + Schémas Bilan)**
-
-
+Toutes modifications sont proposables, soit via message/mail, soit via le service de Github.
 
 Pour parcourir les pages, cliquez sur les liens en bleu.
+
+
+
+Ce site a été réalisé par Logan Tann avec la participation de quelques élèves de première S4.
+
+
 
 ## Liste des textes présents dans ce dossier : 
 
@@ -24,6 +24,7 @@ Pour parcourir les pages, cliquez sur les liens en bleu.
 
 * [Fiche tout en un rédigée par Alix (contient des éléments en plus de ceux présents sur ce site)](https://docs.google.com/document/d/1vuFcUAQpijbgveyHbleFmPk7E1zsORSIzSC5htFnoDs/edit?usp=sharing)
 * [Points culture pour l'entretien](textes/culture.md)
+* [Textes complémentaires](https://github.com/LoganTann/fr/tree/master/compl)
 
 ### *La mort est mon métier* de Robert Merle :
 
@@ -34,7 +35,7 @@ Pour parcourir les pages, cliquez sur les liens en bleu.
 ### Séquence dédiée au portrait :
 
 * [Texte 11/20 : **Le portrait de Guwynplaine (L'homme qui rit)**](textes/txt11.md) de *Victor Hugo* - Commentaire complet
-* [Texte 10/20 : **Le portrait d'un usurier (Gobsec)**](textes/txt10.md) d'*Honoré de Balzac* - Schéma bilan uniquement
+* [Texte 10/20 : **Le portrait d'un usurier (Gobsec)**](textes/txt10.md) d'*Honoré de Balzac* - Commentaire complet + Schéma bilan
 * [Texte 9/20 : **La mort d'Emma Bovary**](textes/txt9.md) de *Gustave Flaubert* - Texte et commentaire complet
 
 ### *Lorenzaccio* d'Alfred de Musset : 

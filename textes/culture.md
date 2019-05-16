@@ -1,7 +1,7 @@
 Points culture pour l'entretien
 =====
 
-[retour au menu](../)
+*Marion Luche* - [retour au menu](../)
 
 * **Monstruosité** : Caractère contre-nature, hors norme ect... Ce qui est différent de l'homme ou de sa morale bien fondée est souvent jugé -à tord dans certains cas- de monstrueux
 * **Banalité du mal** : concept mis à jour par Hanna Harenz qui montre que des hommes de ce qu'il y a de plus normaux peuvent commettre des atrocités sous les ordres des supérieurs. Cela est par exemple le cas avec Rudolf Hoess à Auschwitz ou l'expérience de Milgram. On peut aussi parler de monstruosité ordinaire.
