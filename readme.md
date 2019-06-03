@@ -14,17 +14,21 @@ Ce site a été réalisé par Logan Tann avec la participation de quelques élè
 
 ## Liste des textes présents dans ce dossier : 
 
-> ### *Séquence sur la poésie (pas pour le prochain oral)*
->
-> * Texte 17/20 : **"Vous faites voir les os"** de *Paul Scarron*.
-> * Texte 16/20 : Extrait du champ IV des **Champs de maldoror** de *Lautréamont*.
-> * Texte 15/20 : **"La ballade des pendus"** de *François Villon*.
-
 ### *Supplémentaire* :
 
 * [Fiche tout en un rédigée par Alix (contient des éléments en plus de ceux présents sur ce site)](https://docs.google.com/document/d/1vuFcUAQpijbgveyHbleFmPk7E1zsORSIzSC5htFnoDs/edit?usp=sharing)
-* [Points culture pour l'entretien](textes/culture.md)
-* [Textes complémentaires](https://github.com/LoganTann/fr/tree/master/compl)
+* [Points culture pour l'entretien (par Marion)](textes/culture.md)
+* [Textes complémentaires à imprimer](https://github.com/LoganTann/fr/tree/master/compl)
+
+### Séquence sur la femme beaudelairienne (entre spleen et idéal)
+> * Texte 20/20 : **Causerie**
+> * Texte 19/20 : **Réversibilité**
+> * Texte 18/20 : **Le serpent qui danse**
+
+### Séquence sur les chants (En cours de rédaction...)
+ * [Texte 17/20 : **"Vous faites voir les os"**](textes/txt17.md) de *Paul Scarron*.
+ * [Texte 16/20 : Extrait du champ IV des **Champs de maldoror**](textes/txt16.md) de *Lautréamont*.
+ * [Texte 15/20 : **"La ballade des pendus"**](textes/txt15.md) de *François Villon*.
 
 ### *La mort est mon métier* de Robert Merle :
 
