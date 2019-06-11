@@ -1,6 +1,22 @@
 # Txt16 : Je suis sale dans *Les chants de maldoror (c IV,str 4)*
 
-*Logan Tann* - [Retour au menu](../)
+[Retour au menu](../)
+
+*Jean Dias Alvez* :
+
+![page 1/5](txt16_1.jpg)
+
+![page 2/5](txt16_2.jpg)
+
+![page 3/5](txt16_3.jpg)
+
+![page 4/5](txt16_4.jpg)
+
+![page 5/5](txt16_5.jpg)
+
+
+
+*Logan Tann* :
 
 
 
@@ -64,7 +80,7 @@ __Problématique choisie__ : En quoi ce texte présente-t-il un personnage surr�
 
 __Introduction__ : 
 
-> 
+> voir les éléments donnés par Jean
 
 __Conclusion__ :
 > Il n'est pas étonnant, à la lecture de cet extrait, que Lautréamont ait suscité tant d'enthousiasme chez les surréalistes.L'auteur tourne en effet le dos à la narration réaliste pour évoquer un monstre improbable et hyperbolique qui concentre en lui tous les traits de la monstruosité.
