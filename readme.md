@@ -20,16 +20,41 @@ Ce site a été réalisé par Logan Tann avec la participation de quelques élè
 
 ## Commentaires rédigés par Logan Tann et Jean Dias Alvez
 
+### Progression : 
+
+Tous les schémas bilans des textes 9 et supérieurs sont rédigés de manière informatique.
+
+| Textes                                          | Commentaire adapté au plan de la classe ... | ... avec écriture : |        Schéma bilan        | En cours de rédaction |
+| ----------------------------------------------- | :-----------------------------------------: | :-----------------: | :------------------------: | :-------------------: |
+| 20 : Causerie                                   |                     Oui                     |    Informatique     |            Oui             |           -           |
+| 19 : Reversibilité                              |                      -                      |    Informatique     |             -              |      *En cours*       |
+| 18 : Le serpent qui danse                       |         *plan non étudié en classe*         |     Screenshots     |         Pas encore         |           -           |
+| 17 : Vous faites voir les os                    |                      -                      |    Informatique     |             -              |      *En cours*       |
+| 16 : Je suis sale                               |                     Oui                     |     Manuscrite      |         *À venir*          |           -           |
+| 15 : La ballade des pendus                      |                     Oui                     |     Manuscrite      |         *À venir*          |           -           |
+| 14 : Le procès de Rudolf                        |                     Oui                     |    Informatique     |            Oui             |           -           |
+| 13 : L'entretien avec le directeur de la prison |                     Oui                     |    Informatique     |            Oui             |           -           |
+| 12 : Incipit La mort est mon métier             |                     Oui                     |    Informatique     | Oui<br/>+ shm. heuristique |           -           |
+| 11 : Gwynplaine                                 |                     Oui                     |     Manuscrite      |        *Pas encore*        |           -           |
+| 10 : Portrait d'un usurier                      |                     Oui                     |     Manuscrite      |            Oui             |           -           |
+| 9 : La mort d'Emma Bovary                       |                     Oui                     |     Manuscrite      |            Oui             |           -           |
+| 1 à 8                                           |         *schémas bilan uniquement*          |     Manuscrite      |            Oui             |           -           |
+
+
+
 ### Séquence sur la femme beaudelairienne (entre spleen et idéal) [En cours de rédaction]
 
 * [Texte 20/20 : **Causerie**](textes/txt17.md)
-> * Texte 19/20 : **Réversibilité**
-> * Texte 18/20 : **Le serpent qui danse**
+
+> * Texte 19/20 : **Réversibilité** (à venir)
+
+* [Texte 18/20 : **Le serpent qui danse**](textes/txt18.md)
 
 ### Séquence sur les chants [la plupart en cours de rédaction...]
- * [Texte 17/20 : **"Vous faites voir les os"**](textes/txt17.md) de *Paul Scarron*.
- * [Texte 16/20 : Extrait du champ IV des **Champs de maldoror**](textes/txt16.md) de *Lautréamont*.
- * [Texte 15/20 : **"La ballade des pendus"**](textes/txt15.md) de *François Villon*.
+
+* [Texte 17/20 : **"Vous faites voir les os"**](textes/txt17.md) de *Paul Scarron*.
+* [Texte 16/20 : Extrait du champ IV des **Champs de maldoror**](textes/txt16.md) de *Lautréamont*.
+* [Texte 15/20 : **"La ballade des pendus"**](textes/txt15.md) de *François Villon*.
 
 ### *La mort est mon métier* de Robert Merle :
 
