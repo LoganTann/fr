@@ -60,7 +60,8 @@ __Introduction__ :
 
 __Conclusion__ :
 
-> 
+> Paul Scarron exprime son ressentiment envers une femme dont la bouche l'incommode. Il a, pour cela, choisi la forme du sonnet (la forme la plus noble pour chanter l'amour) ce qui est paradoxalement judicieux pour critiquer et déclarer sa haine à cette femme. Paul scarron va ainsi à l'encontre des convenances artistiques de l'époque en choisissant le thème de contre-blason.
+> Nous pouvons également remarquer que le rire insupportable d'Hélène peut rappeler à bien des égards le rire provoqué par la bouche déformée de Gwynplaine, personnage principal de «L'homme qui rit» de Victor Hugo.
 
 __Problématiques possibles__ : 
 
