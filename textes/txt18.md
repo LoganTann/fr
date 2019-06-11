@@ -1,75 +1,14 @@
 # Txt18 : Le serpent qui danse dans *Les fleurs du mal*
 
-*Logan Tann* - [Retour au menu](../)
+*Ce texte a été exceptionnellement pris sur internet* - [Retour au menu](../)
 
+![page 1/5](txt18_1.jpg)
 
+![page 2/5](txt18_2.jpg)
 
-**Plan vu en classe :**
+![page 3/5](txt18_3.jpg)
 
-1. 
-   * 
-   * 
-   * 
-2. 
-   * 
-   * 
-   * 
+![page 4/5](txt18_4.jpg)
 
-__Problématique choisie__ : 
+![page 5/5](txt18_5.jpg)
 
-
-
-## Éléments sans rapport avec le plan vu en classe
-
-* 
-
-
-## I\ 
-
-### a) 
-
-* 
-
-### b) 
-
-* 
-
-### c) 
-
-* 
-
-## II\ 
-
-### a) 
-
-* 
-
-### b) 
-
-- 
-
-### c) 
-
-* 
-
-## Éléments supplémentaires
-
-__Introduction__ : 
-
-> 
-
-__Conclusion__ :
-
-> 
-
-__Problématiques possibles__ : 
-
-> * 
-
-__Schéma Bilan__ : 
-
-[Fichier Vectoriel (pour modification informatique)](txt14.svg)
-
-Fichier PNG : 
-
-![txt14.png](txt14.png)
