@@ -1,6 +1,6 @@
 # Txt15 : La ballade des pendus
 
-*Logan Tann* - [Retour au menu](../)
+*Jean DIAS ALVEZ* - [Retour au menu](../)
 
 
 
@@ -32,6 +32,21 @@ __Problématique choisie__ : Comment ce texte montre-t-il une dualité entre le 
 * Sophisme : Socrate est un homme, un homme est mortel donc Socrate est mortel.
 
 
+
+![page 1/4](txt15_1.jpg)
+
+![page 2/4](txt15_2.jpg)
+
+![page 3/4](txt15_3.jpg)
+
+![page 4/4](txt15_4.jpg)
+
+
+
+*Logan Tann*
+
+
+
 ## I\ Le corps d'un homme payant sa faute.
 
 ### a) La justice humaine
@@ -40,13 +55,17 @@ __Problématique choisie__ : Comment ce texte montre-t-il une dualité entre le 
 
 ### b) La décomposition des corps
 
-* Nourrie, pourrie : le gore accentue le choc.
-* os, cendre, poudre : gradation.
+* Nourrie, pourrie : le gore accentue le choc. De plus, il y a une très grande opposition entre ces mots.
+
+  os, cendre, poudre + piéça dévorée et pourrie + .... : présence de nombreuses gradation.
+
 * Le mort rappelle que tous les hommes mourront tôt ou tard.
 
 ### c) Exemples de dissuasion
 
 * Usage de l'impératif dans le vers 2 : ordre.
+* Utilisation de connecteurs logiques.
+* 
 * Prosopopée; Usage du présent d'énonciation, le mort s'adresse directement aux vivants.
 
 ## II\ L'âme d'un pêcheur demandant l'absolution
@@ -59,11 +78,14 @@ __Problématique choisie__ : Comment ce texte montre-t-il une dualité entre le 
 ### b) Le pardon des vivants
 
 - Le mort demande le pardon des vivants
+- Présence du "nous",  frères humains : complicité entre le lecteur et le mort
+- Impératif avec demande de grâce
 
 ### c) Le pardon de Dieu
 
-* Les pendus comme les humains sont protégés de Dieu.
 * Champ lexical du pardon.
+* "Car si pitié de nous avez, Dieu en aura plus tôt de vous merci" : Appel à la compassion, argument qui fait des pendus des protégés de Dieu, au mème titre des Frères humains.
+  Ressemble à un chiasme.
 
 ## Éléments supplémentaires
 
@@ -85,10 +107,10 @@ __Problématiques possibles__ :
 > * En quoi le mort transmet-t-il un message aux vivants ?
 > * En quoi la description monstrueuse dissuade-t-elle les vivants de suivre la voie du crime ?
 
-__Schéma Bilan__ : 
+__Schéma Bilan__ (à venir): 
 
-[Fichier Vectoriel (pour modification informatique)](txt14.svg)
-
-Fichier PNG : 
-
-![txt14.png](txt14.png)
+> [Fichier Vectoriel (pour modification informatique)](txt1.svg)
+>
+>  Fichier PNG : 
+>
+> ![txt1.png](txt1.png)
