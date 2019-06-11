@@ -20,12 +20,12 @@ Ce site a été réalisé par Logan Tann avec la participation de quelques élè
 * [Points culture pour l'entretien (par Marion)](textes/culture.md)
 * [Textes complémentaires à imprimer](https://github.com/LoganTann/fr/tree/master/compl)
 
-### Séquence sur la femme beaudelairienne (entre spleen et idéal)
-> * Texte 20/20 : **Causerie**
+### Séquence sur la femme beaudelairienne (entre spleen et idéal) [En cours de rédaction]
+* [Texte 20/20 : **Causerie**](textes/txt17.md)
 > * Texte 19/20 : **Réversibilité**
 > * Texte 18/20 : **Le serpent qui danse**
 
-### Séquence sur les chants (En cours de rédaction...)
+### Séquence sur les chants (la plupart en cours de rédaction...)
  * [Texte 17/20 : **"Vous faites voir les os"**](textes/txt17.md) de *Paul Scarron*.
  * [Texte 16/20 : Extrait du champ IV des **Champs de maldoror**](textes/txt16.md) de *Lautréamont*.
  * [Texte 15/20 : **"La ballade des pendus"**](textes/txt15.md) de *François Villon*.
