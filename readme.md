@@ -15,6 +15,7 @@ Ce site a été réalisé par Logan Tann avec la participation de quelques élè
 * [Fiche tout en un rédigée par Alix (contient des éléments en plus de ceux présents sur ce site)](https://docs.google.com/document/d/1vuFcUAQpijbgveyHbleFmPk7E1zsORSIzSC5htFnoDs/edit?usp=sharing)
 * [Points culture pour l'entretien (par Marion)](textes/culture.md)
 * [Textes complémentaires à imprimer](https://github.com/LoganTann/fr/tree/master/compl)
+* [Le résumé de notre programme de Français](notions.md)
 
 
 
