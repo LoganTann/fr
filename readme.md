@@ -17,10 +17,6 @@ Ce site a été réalisé par Logan Tann avec la participation de quelques élè
 * [Textes complémentaires à imprimer](https://github.com/LoganTann/fr/tree/master/compl)
 * [Le résumé de notre programme de Français](notions.md)
 
-
-
-## Commentaires rédigés par Logan Tann et Jean Dias Alvez
-
 ### Progression : 
 
 Tous les schémas bilans des textes 9 et supérieurs sont rédigés de manière informatique.
@@ -28,7 +24,7 @@ Tous les schémas bilans des textes 9 et supérieurs sont rédigés de manière 
 | Textes                                          | Commentaire adapté au plan de la classe ... | ... avec écriture : |        Schéma bilan        | En cours de rédaction  |
 | ----------------------------------------------- | :-----------------------------------------: | :-----------------: | :------------------------: | :--------------------: |
 | 20 : Causerie                                   |                     Oui                     |    Informatique     |            Oui             |           -            |
-| 19 : Reversibilité                              |                      -                      |    Informatique     |             -              |       *En cours*       |
+| 19 : Reversibilité                              |                    Oui++                    |    Informatique     |            Oui             |           -            |
 | 18 : Le serpent qui danse                       |         *plan non étudié en classe*         |     Screenshots     |         Pas encore         |           -            |
 | 17 : Vous faites voir les os                    |                      -                      |    Informatique     |             -              |       *En cours*       |
 | 16 : Je suis sale                               |                     Oui                     |     Manuscrite      |         *À venir*          | *légèrement incomplet* |
@@ -41,13 +37,12 @@ Tous les schémas bilans des textes 9 et supérieurs sont rédigés de manière 
 | 9 : La mort d'Emma Bovary                       |                     Oui                     |     Manuscrite      |            Oui             |           -            |
 | 1 à 8                                           |         *schémas bilan uniquement*          |     Manuscrite      |            Oui             |           -            |
 
+## Commentaires rédigés par Logan Tann et Jean Dias Alvez
 
-
-### Séquence sur la femme beaudelairienne (entre spleen et idéal) [En cours de rédaction]
+### Séquence sur la femme beaudelairienne (entre spleen et idéal) 
 
 * [Texte 20/20 : **Causerie**](textes/txt20.md)
-
-> * Texte 19/20 : **Réversibilité** (à venir)
+* [Texte 19/20 : **Réversibilité**](textes/txt19.md)
 
 * [Texte 18/20 : **Le serpent qui danse**](textes/txt18.md)
 
