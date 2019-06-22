@@ -45,7 +45,7 @@ Tous les schémas bilans des textes 9 et supérieurs sont rédigés de manière 
 
 ### Séquence sur la femme beaudelairienne (entre spleen et idéal) [En cours de rédaction]
 
-* [Texte 20/20 : **Causerie**](textes/txt17.md)
+* [Texte 20/20 : **Causerie**](textes/txt20.md)
 
 > * Texte 19/20 : **Réversibilité** (à venir)
 
