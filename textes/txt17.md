@@ -1,4 +1,4 @@
-# Txt1 : Vous faites voir les os de *Paul Scarron*
+# Txt17 : Vous faites voir les os de *Paul Scarron*
 
 *Logan Tann* - [Retour au menu](../)
 
@@ -11,7 +11,7 @@
    * Un humour cruel
    * Une violente laideur
 2. Une haine sans borne
-   * Une véritable c
+   * La violence crue de l'auteur
    * Une description hyperbolique
    * La déshumanisation d'Hélène
 
@@ -19,44 +19,53 @@ __Problématique choisie__ : Comment l'auteur retranscrit-il son ressentiment ?
 
 
 
-## Éléments sans rapport avec le plan vu en classe
-
-* 
-
-
 ## I\ Un contre-blason
 
 ### a) Un portrait contradictoire
 
-* 
+* Le blason est un art consistant à décrire une partie du corps d'une femme, souvent élogieux. Ici le poète fait tout le contraire afin de lui déclarer toute sa haine.
+* Rieuse/pleureuse : thème de la vieillesse . Paul Scarron rejette Hélène de la beauté et de la jeunesse en l'amenant vers la vieillesse et la mort.
 
 ### b) Un humour cruel
 
-* 
+* Le métier de rieuse : il n'existe pas mais fait référence au véritable métier de pleureuse.
+* Utilisation d'un sonnet (deux quatrains et deux tercets), la forme la plus pure pour parler d'amour.
+* Malgré les conseils du poète, Hélène continue toujours à rire dans le second tercet.
+* Conseil ironique du poète. Il utilise de l'impératif.
 
 ### c) Une violente laideur
 
-* 
+* L'halène qui déchausse
+* Dentition pourrie
+* Le second vers correspond au moment au le poète voit Hélène sourire. description péjorative.
 
 ## II\ Une haine sans borne
 
-### a) Une véritable c
+### a) La violence crue de l'auteur
 
-* 
+* Animalisation de souhait de mort de l'auteur. Détestation.
+* Le choix du prénom Hélène : dans la mythologie grecque, elle est la cause de la guerre de troie. Le prénom est introduit dès le premier vers.
+* "Crevez de rire" : à prendre au sens propre; le poète l'invite à mourir sous son rire. Peut aussi prendre le sens "éclatez" ce qui rend sa mort plus violente.
 
 ### b) Une description hyperbolique
 
-- 
+- "Os guerre blancs"; "Noirs comme de l'ébène" : forme d'oxymore.
+- "carriées et tremblants" les dents sont en putréfaction.
+- Répétition du mot "rire"; insistance.
 
 ### c) La déshumanisation d'Hélène
 
-* 
+* Ses dents sont si grosses que le poète les qualifie d'*os*. Le mot "Os" nous fait penser à la mort.
+* Le rire ne peut être arrêté, jusqu'à devenir destructeur.
+* Dernier vers, souhait de l'auteur de la mort de la femme.
 
 ## Éléments supplémentaires
 
 __Introduction__ : 
 
-> 
+> Paul Scarron est un auteur contemporain du XVII e siècle. Atteint d'une maladie qui paralysa son corps, il passa le reste de sa vie dans un fauteuil et commence à écrire des œuvres comiques dont le poème Vous faites voir les os, qui est en fait une description en contre-blason de la bouche d'une femme nommée Hélène. Comment l'auteur retranscrit-il son ressentiment ?
+>
+> Nous répondrons à cette problématique en deux grandes parties : d'une part avec l'étude du contre-blason où nous verrons que le portrait fait par l'auteur est contradictoire, qu'il utilise un humour cruel avec une violente laideur, et d'autre part avec l'étude d'une haine sans borne où nous traiterons la violence crue de l'auteur, la description hyperbolique et la déshumanisation d'hélène.
 
 __Conclusion__ :
 
@@ -73,8 +82,8 @@ __Problématiques possibles__ :
 
 __Schéma Bilan__ : 
 
-[Fichier Vectoriel (pour modification informatique)](txt14.svg)
+[Fichier Vectoriel (pour modification informatique)](txt17.svg)
 
 Fichier PNG : 
 
-![txt14.png](txt14.png)
+![txt17.png](txt17.png)
